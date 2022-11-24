@@ -74,9 +74,9 @@ PIN DIAGRAM FOR ATMEGA 328
 ## PROGRAM :
   ```
   Developed by: silambarasan.K
-  Roll No: 212221230101
+  Roll No: 212221230101```
 
-
+```c
   int ledpin = 4;
 int pushbtn = 2;
 int val = 0;
