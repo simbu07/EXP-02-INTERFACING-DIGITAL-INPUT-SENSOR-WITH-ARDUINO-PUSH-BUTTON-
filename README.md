@@ -1,5 +1,6 @@
 ## EXPERIMENT-01-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON
 
+
 ## AIM: 
  To interface a digital input (push button) and blink and LED upon activation.
 
@@ -39,9 +40,6 @@ PIN DIAGRAM FOR ATMEGA 328
 ### FIGURE-01-Adrino UNO
 ![image](https://user-images.githubusercontent.com/36288975/163530431-4d390e98-0942-42d8-95b8-f57d348e6ad8.png)
 
-
-
-
 ## PROCEDURE :
  Open tinker cad account 
 1.	Select Arduino uno , bread board , digital input and digital output 
@@ -50,35 +48,15 @@ PIN DIAGRAM FOR ATMEGA 328
 4.	 .Execute the program 
 5.	Check the simulation 
 
-
-
-
-
-
-
 ## CIRCUIT DIAGRAM :
-
-
-
-
-
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
-
-
-
-
-
-
-
 
 ## PROGRAM :
   ```
   Developed by: silambarasan.K
   Roll No: 212221230101
   ```
-
 ```c
-`
   int ledpin = 4;
 int pushbtn = 2;
 int val = 0;
@@ -101,15 +79,7 @@ else
 }
 }
  ```
- 
- 
- 
-
-
-
 ## Output of the simulation :
-
-
 ![log](Circuitt.png)
 
 ## Result:
